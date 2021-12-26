@@ -11,6 +11,9 @@ Features:
   
 **Screenshots:**
 
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/92695424/147422185-c595aa92-4cd0-4e3c-b7a0-159c3f8a07f2.png">
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/92695424/147422190-13fe792e-b8fa-48b2-9cca-295b8aafa45d.png">
+
   
 **In Progress:**
  
