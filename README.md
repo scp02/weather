@@ -3,11 +3,19 @@ Dreaming about going on vacation somewhere? Use Clima to find real time weather 
 
 Clima uses [CocoaPods](https://cocoapods.org), a dependency management tool for iOS apps and data from [OpenWeather](https://openweathermap.org/api). 
 
-Features:
+
+**Features:**
 
   - Temperature
   - Weather Conditions
   - Options to choose city
+
+**Instructions:**
+
+  - Download the project
+  - Open "Clima.xcworkspace" in your IDE
+  - Run on simulator or on physical device
+
   
 **Screenshots:**
 
