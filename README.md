@@ -13,6 +13,7 @@ Clima uses [CocoaPods](https://cocoapods.org), a dependency management tool for 
 **Instructions:**
 
   - Download the project
+  - Extract "pods.zip" to new folder "pods" in the same directory
   - Open "Clima.xcworkspace" in your IDE
   - Run on simulator or on physical device
 
